@@ -5,6 +5,8 @@ Flavour Fusion is an AI-powered recipe blogging web application that generates u
 The platform is designed for food bloggers, home cooks, and content creators who want high-quality recipe content with minimal effort.
 This project is developed as part of the SmartInternz Virtual Internship Program (Group Project).
 
+
+
 **🚀 Project Overview**
 
 Flavour Fusion allows users to:
@@ -18,6 +20,8 @@ Flavour Fusion allows users to:
 -> and instantly generate a well-structured, engaging recipe blog.
 
 -> While the AI processes the content, the application also entertains users with light-hearted programmer jokes, making the experience       interactive and enjoyable.
+
+
 
 **✨ Key Features**
 
@@ -37,6 +41,8 @@ Flavour Fusion allows users to:
 
 😄 Fun Programmer Jokes during content generation
 
+
+
 **🧑‍💻 Technology Stack**
 
 Frontend & UI: Streamlit
@@ -46,6 +52,8 @@ AI Model: Google Gemini (Generative AI)
 Backend Logic: Python
 
 Environment Management: python-dotenv
+
+
 
 **⚙️ Installation & Setup**
 
@@ -86,6 +94,8 @@ Open your browser and visit:
 
 http://localhost:8501
 
+
+
 **📖 How to Use the Application**
 
 -> Enter a recipe topic (e.g., “Vegan Chocolate Cake”)
@@ -98,16 +108,25 @@ http://localhost:8501
 
 -> View, download, or save the generated recipe blog
 
+
+
 **📁 Project Structure**
 
 Flavour-Fusion/
 
 ├── README.md                  # Project documentation
+
 ├── Document/                  # Project-related documents
+
 ├── Project Files/
+
 │   ├── app.py                 # Main Streamlit application
+
 │   └── requirements.txt       # Python dependencies
+
 └── Video/                     # Demo / explanation videos
+
+
 
 **👥 Team Details (SmartInternz)**
 
@@ -115,9 +134,11 @@ Team ID: **LTVIP2026TMIDS55979**
 
 Team Size: 5
 
+
 **👨‍🏫 Team Leader**
 
 Shaik Mujasim
+
 
 **👩‍💻 Team Members**
 
@@ -129,6 +150,7 @@ Shaik Mohaseena
 
 Shaik Neha Samreen
 
+
 **🎯 Internship Context**
 
 This project is developed under the SmartInternz Guided Internship Program as a Group Project, focusing on:
@@ -137,6 +159,8 @@ Practical implementation of Generative AI
 Hands-on experience with AI-based content generation
 
 Real-world application development using Python and Streamlit
+
+
 
 **📌 Conclusion**
 
